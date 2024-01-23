@@ -1,4 +1,3 @@
-# algorithm-analysis-homeworks
 # Algorithm Analysis Homeworks
 
 This repository contains all of my assignments for Algorithm Analysis (BLM3021) at YTU.
